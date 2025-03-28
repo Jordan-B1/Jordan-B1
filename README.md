@@ -12,3 +12,5 @@
 📍 Linux-based, always looking for technical challenges and new ideas to explore.  
 
 💡 **Let’s build something cool!**  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordan-B1)](https://github.com/anuraghazra/github-readme-stats)
