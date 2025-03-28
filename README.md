@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🖥️ **Developer & Cybersecurity Enthusiast**  
+👋 Hi! I'm a developer passionate about **networking, cybersecurity, and embedded systems**. Curious and versatile, I love exploring low-level concepts, optimizing systems, and building robust, high-performance tools.  
 
-<!--
-**Jordan-B1/Jordan-B1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Techs & stacks**: C, Python, Rust, Node.js, Linux, Docker  
+🔹 **Notable projects**:  
+   - 🦈 [Cable-Dolphin](https://github.com/Jordan-B1/cable-dolphin) – A packet sniffer inspired by Wireshark  
+   - 🔐 [IPsec Tunnel](https://github.com/Jordan-B1/IP-SEC-TUNNEL) – Experimenting with encryption and tunneling  
+   - 🌩️ [IoT & Security](https://github.com/soon-coming) – Connected weather stations with Grafana & RFID in C
 
-Here are some ideas to get you started:
+🚀 I also mentor student projects and organize tech events like [DevMorning]([https://yourlink.com](https://www.meetup.com/paris-devmorning/)).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Linux-based, always looking for technical challenges and new ideas to explore.  
+
+💡 **Let’s build something cool!**  
