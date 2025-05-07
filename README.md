@@ -5,7 +5,7 @@
 🔹 **Notable projects**:  
    - 🦈 [Cable-Dolphin](https://github.com/Jordan-B1/cable-dolphin) – A packet sniffer inspired by Wireshark  
    - 🔐 [IPsec Tunnel](https://github.com/Jordan-B1/IP-SEC-TUNNEL) – Experimenting with encryption and tunneling  
-   - 🌩️ [IoT & Security](https://github.com/soon-coming) – Connected weather stations with Grafana & RFID in C
+   - 🌩️ [IoT & Security](https://github.com/Jordan-B1/workshops/tree/master/Weatheria) – Connected weather stations with Grafana & RFID
 
 🚀 I also mentor student projects and organize tech events like [DevMorning]([https://yourlink.com](https://www.meetup.com/paris-devmorning/)).  
 
